@@ -1,9 +1,1 @@
-print(tf.__version__)
-
-
-import tensorflow as tf
-
-Thfkdfskalfdj ;fdaks; fdaaa fjdkfjdkfldjlkf fdfdfdfdfd
-
-
-adsdasdafasfasdadasdasasdasdadsaaaaaaaaaaaaaaaa
+왜 안 되는데 스팔!!!!!
