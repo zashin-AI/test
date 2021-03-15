@@ -2,4 +2,4 @@ print("hello")
 
 import tensorflow as tf
 
-kl gfakjlafdskl;sadfks lsadf lsadf
+print(tf.__version__)
