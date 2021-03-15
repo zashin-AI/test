@@ -1,3 +1,3 @@
-print("hello")
+print(tf.__version__)
 
-import tensorflow as tf
+adsdasdafasfasdadasdasasdasdadsaaaaaaaaaaaaaaaa
